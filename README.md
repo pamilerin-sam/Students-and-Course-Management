@@ -24,7 +24,7 @@ Built using primary and foreign keys to ensure data integrity.
   
   <img width="510" height="305" alt="github" src="https://github.com/user-attachments/assets/a2e3feda-6feb-4bbe-a045-61ada0c8d2b9" />
   
-* Identified top-performing and low-performing students
+* Identify top-performing and low-performing students
   
   <img width="651" height="380" alt="second" src="https://github.com/user-attachments/assets/27836da2-fd27-408f-b193-5fe3e9be73c5" />
   
